@@ -1,6 +1,6 @@
-# bildegalleri
+# Bildegallery
 
-> Dynamisk og modern bildegalleri
+>Responsiv bildegalleri laget i Vue.js
 
 ## Build Setup
 
